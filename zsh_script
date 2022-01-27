@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "установка гит"
+apt install git;
+echo "установка curl"
+apt install curl
+echo "установка zsh"
+apt install zsh
+echo "установка nginx"
+apt install nginx
+
+
